@@ -10,12 +10,11 @@
 
 **What**:
 We will teach a hands-on introduction to the [Python](https://www.python.org/)
-programming language and the version control system
-[git](https://git-scm.com/).
+programming language.
 You **will not** calculate Fibonacci numbers, organize lists of names, print
 all odd numbers between 0 and 30, or any of that programmer nonsense.
 You **will** load data, perform linear regressions, make figures and maps, and
-other things that will actually need to do on a daily basis.
+other things that you will actually need to do on a daily basis.
 
 **Bring**:
 Students must bring their own computers (Mac, Windows, or Linux) with the
