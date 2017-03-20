@@ -57,10 +57,29 @@ quality figures, and save the output.
 
 ## What to install
 
-* Anaconda 3.6
-* Text Editor
+There are many ways to get Python on your system and it can be very confusing
+when you're first starting out.
+I **don't** recommend downloading it from python.org or using the Python that
+came with your system (common on Linux).
+Instead, **use the Anaconda distribution**.
+It will come with all the libraries you'll need and doesn't require
+administrative access to install.
 
-(more details provided later)
+Go to https://www.continuum.io/downloads and select the **Python 3.6** version
+of the installer for your system.
+It's safe to use all the default configuration options when installing.
+
+**Even if you already have Python** (say from your system package manager or
+ArcGIS, etc), I recommend that you install Anaconda to avoid problems with
+versioning.
+
+You'll also need a **text editor**. If you don't already have one of your
+choice, I recommend installing [Sublime Text](https://www.sublimetext.com/)
+(it's available for Linux, Windows, and Mac).
+
+**Please install all software BEFORE comming to class.** If you have any
+problems installing or don't know which version you need to download,
+[come talk to me](http://www.leouieda.com/contact/).
 
 
 
