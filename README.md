@@ -74,6 +74,13 @@ Everything there is worth learning.
 See this blog post for more resources for getting started in Python:
 http://www.leouieda.com/blog/getting-started-with-python-for-science.html
 
+To perfect your Python-fu, I highly recommend trying to solve the
+[Python Challenge](http://www.pythonchallenge.com/).
+It's a fun way to learn general Python skills, like parsing text, downloading
+web content, regular expressions, and much more.
+The challenges are usually very difficult but also very rewarding when you can
+complete them.
+
 
 ## License
 
