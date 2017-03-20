@@ -2,18 +2,20 @@
 
 **Instructor:** [Leonardo Uieda](http://www.leouieda.com)
 
-**When**:
+**When**: 
+April 17, 19, and 20. 4:30pm - 6:30pm
 
-
-**Where**:
-
+**Where**: 
+Room 708 at the POST building.
 
 **What**:
 We will teach a hands-on introduction to the [Python](https://www.python.org/)
 programming language.
-You **will not** calculate Fibonacci numbers, organize lists of names, print
+You **will not** fall asleep with PowerPoint slides full of code, 
+calculate Fibonacci numbers, organize lists of names, print
 all odd numbers between 0 and 30, or any of that programmer nonsense.
-You **will** load data, perform linear regressions, make figures and maps, and
+You **will** write code from the start, work in pairs/groups, load data, 
+perform linear regressions, make figures and maps, and
 other things that you will actually need to do on a daily basis.
 
 **Bring**:
@@ -37,7 +39,19 @@ quality figures, and save the output.
 
 |   | **Topics** |
 |--:|:-----------|
-| 1 | TBD |
+| 1  | First steps: Opening Python and running code |
+| 2  | The Jupyter notebook |
+| 2  | Using variables to store data |
+| 3  | Getting help |
+| 4  | The power of libraries |
+| 5  | Loading data with numpy |
+| 6  | Making plots with matplotlib |
+| 7  | Repeating actions with `for` loops |
+| 8  | Specifying contitions with `if` statements |
+| 9  | Dealing with text |
+| 10 | Artisanal data input |
+| 11 | Analysing our data with `numpy` and `scipy` |
+| 12 | Plotting results on a map |
 
 
 ## What to install
