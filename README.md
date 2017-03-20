@@ -2,19 +2,19 @@
 
 **Instructor:** [Leonardo Uieda](http://www.leouieda.com)
 
-**When**: 
+**When**:
 April 17, 19, and 20. 4:30pm - 6:30pm
 
-**Where**: 
+**Where**:
 Room 708 at the POST building.
 
 **What**:
 We will teach a hands-on introduction to the [Python](https://www.python.org/)
 programming language.
-You **will not** fall asleep with PowerPoint slides full of code, 
+You **will not** fall asleep with PowerPoint slides full of code,
 calculate Fibonacci numbers, organize lists of names, print
 all odd numbers between 0 and 30, or any of that programmer nonsense.
-You **will** write code from the start, work in pairs/groups, load data, 
+You **will** write code from the start, work in pairs/groups, load data,
 perform linear regressions, make figures and maps, and
 other things that you will actually need to do on a daily basis.
 
@@ -30,28 +30,29 @@ the workshop.
 
 This is going to be a hands-on workshop of the basic concepts you'll need to
 use Python for your research and studies.
-Students who complete the workshop should be able to use Python to gather data 
-from one or more files, process the data, run an analysis, make publication 
+Students who complete the workshop should be able to use Python to gather data
+from one or more files, process the data, run an analysis, make publication
 quality figures, and save the output.
 
 
 ## Schedule
 
-|   | **Topics** |
-|--:|:-----------|
-| 1  | First steps: Opening Python and running code |
-| 2  | The Jupyter notebook |
-| 2  | Using variables to store data |
-| 3  | Getting help |
-| 4  | The power of libraries |
-| 5  | Loading data with numpy |
-| 6  | Making plots with matplotlib |
-| 7  | Repeating actions with `for` loops |
-| 8  | Specifying contitions with `if` statements |
-| 9  | Dealing with text |
-| 10 | Artisanal data input |
-| 11 | Analysing our data with `numpy` and `scipy` |
-| 12 | Plotting results on a map |
+| **Topics** |
+|:-----------|
+| First steps: Opening Python and running code |
+| The Jupyter notebook |
+| Using variables to store data |
+| Getting help |
+| The power of libraries |
+| Loading data with numpy |
+| Making plots with matplotlib |
+| Repeating actions with `for` loops |
+| Specifying conditions with `if` statements |
+| Making functions for modular code and defensive programming |
+| Dealing with text |
+| Artisanal data input |
+| Analysing our data with `numpy` and `scipy` |
+| Plotting results on a map |
 
 
 ## What to install
@@ -67,7 +68,7 @@ quality figures, and save the output.
 
 We will loosely follow the Python lessons from
 [Software Carpentry](https://software-carpentry.org/).
-I highly recommend taking a look at all of their material. 
+I highly recommend taking a look at all of their material.
 Everything there is worth learning.
 
 See this blog post for more resources for getting started in Python:
