@@ -19,7 +19,7 @@ perform linear regressions, make figures and maps, and
 other things that you will actually need to do on a daily basis.
 
 **Bring**:
-Students must bring their own computers (Mac, Windows, or Linux) with the
+Participants must bring their own computers (Mac, Windows, or Linux) with the
 required software already installed (see [What to install](what-to-install)
 below).
 [Contact me](http://www.leouieda.com/contact/) if you need any help **before**
@@ -30,9 +30,9 @@ the workshop.
 
 This is going to be a hands-on workshop of the basic concepts you'll need to
 use Python for your research and studies.
-Students who complete the workshop should be able to use Python to gather data
-from one or more files, process the data, run an analysis, make publication
-quality figures, and save the output.
+Participants who complete the workshop should be able to use Python to gather
+data from one or more files, process the data, run an analysis, make
+publication quality figures, and save the output.
 
 
 ## Schedule
@@ -77,7 +77,7 @@ You'll also need a **text editor**. If you don't already have one of your
 choice, I recommend installing [Sublime Text](https://www.sublimetext.com/)
 (it's available for Linux, Windows, and Mac).
 
-**Please install all software BEFORE comming to class.** If you have any
+**Please install all software BEFORE comming to the workshop.** If you have any
 problems installing or don't know which version you need to download,
 [come talk to me](http://www.leouieda.com/contact/).
 
