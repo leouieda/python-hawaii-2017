@@ -6,7 +6,7 @@
 April 17, 19, and 20. 4:30pm - 6:30pm
 
 **Where**:
-Room 708 at the POST building.
+Room 708 in the POST building. Department of Geology and Geophysics.
 
 **What**:
 We will teach a hands-on introduction to the [Python](https://www.python.org/)
