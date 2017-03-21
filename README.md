@@ -14,9 +14,9 @@ programming language.
 You **will not** fall asleep with PowerPoint slides full of code,
 calculate Fibonacci numbers, organize lists of names, print
 all odd numbers between 0 and 30, or any of that programmer nonsense.
-You **will** write code from the start, work in pairs/groups, load data,
-perform linear regressions, make figures and maps, and
-other things that you will actually need to do on a daily basis.
+You **will** write code from the start, work in pairs/groups, download data
+from the internet, load data, perform linear regressions, make figures and
+maps, and other things that you will actually need to do on a daily basis.
 
 **Bring**:
 Participants must bring their own **computers** (Mac, Windows, or Linux) with the
