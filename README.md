@@ -39,20 +39,27 @@ publication quality figures, and save the output.
 
 |     | **Topics** |
 |:---:|:-----------|
+|     | **Day 1** |
+| 0   | Introductions |
 | 1   | First steps: Opening Python and running code |
 | 2   | The Jupyter notebook |
 | 3   | Using variables to store data |
 | 4   | Getting help |
 | 5   | The power of libraries |
 | 6   | Loading data with numpy |
-| 7   | Making plots with matplotlib |
-| 8   | Repeating actions with `for` loops |
-| 9   | Specifying conditions with `if` statements |
-| 10  | Making functions for modular code and defensive programming |
-| 11  | Dealing with text |
-| 12  | Artisanal data input |
-| 13  | Analysing our data with `numpy` and `scipy` |
-| 14  | Plotting results on a map |
+|     | **Day 1** |
+|     | Recap |
+| 7   | Computing with numpy arrays |
+| 8   | Making plots with matplotlib |
+| 9   | Repeating actions with `for` loops |
+| 10  | Specifying conditions with `if` statements |
+|     | **Day 1** |
+|     | Recap |
+| 11  | Making functions for modular code and defensive programming |
+| 12  | Dealing with text |
+| 13  | Artisanal data input |
+| 14  | Analysing our data with `numpy` and `scipy` |
+| 15  | Plotting results on a map |
 
 
 ## What to install
