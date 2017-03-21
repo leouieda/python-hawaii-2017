@@ -47,14 +47,14 @@ publication quality figures, and save the output.
 | 4   | Getting help |
 | 5   | The power of libraries |
 | 6   | Loading data with numpy |
-|     | **Day 1** |
-|     | Recap |
+|     | **Day 2** |
+|     | *Recap* |
 | 7   | Computing with numpy arrays |
 | 8   | Making plots with matplotlib |
 | 9   | Repeating actions with `for` loops |
 | 10  | Specifying conditions with `if` statements |
-|     | **Day 1** |
-|     | Recap |
+|     | **Day 3** |
+|     | *Recap* |
 | 11  | Making functions for modular code and defensive programming |
 | 12  | Dealing with text |
 | 13  | Artisanal data input |
