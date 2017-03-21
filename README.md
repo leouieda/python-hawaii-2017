@@ -19,8 +19,8 @@ perform linear regressions, make figures and maps, and
 other things that you will actually need to do on a daily basis.
 
 **Bring**:
-Students must bring their own computers (Mac, Windows, or Linux) with the
-required software already installed (see [What to install](what-to-install)
+Students must bring their own **computers** (Mac, Windows, or Linux) with the
+required **software already installed** (see [What to install](what-to-install)
 below).
 [Contact me](http://www.leouieda.com/contact/) if you need any help **before**
 the workshop.
