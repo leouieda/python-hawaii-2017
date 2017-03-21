@@ -37,22 +37,22 @@ quality figures, and save the output.
 
 ## Schedule
 
-| **Topics** |
-|:-----------|
-| First steps: Opening Python and running code |
-| The Jupyter notebook |
-| Using variables to store data |
-| Getting help |
-| The power of libraries |
-| Loading data with numpy |
-| Making plots with matplotlib |
-| Repeating actions with `for` loops |
-| Specifying conditions with `if` statements |
-| Making functions for modular code and defensive programming |
-| Dealing with text |
-| Artisanal data input |
-| Analysing our data with `numpy` and `scipy` |
-| Plotting results on a map |
+|     | **Topics** |
+|:---:|:-----------|
+| 1   | First steps: Opening Python and running code |
+| 2   | The Jupyter notebook |
+| 3   | Using variables to store data |
+| 4   | Getting help |
+| 5   | The power of libraries |
+| 6   | Loading data with numpy |
+| 7   | Making plots with matplotlib |
+| 8   | Repeating actions with `for` loops |
+| 9   | Specifying conditions with `if` statements |
+| 10  | Making functions for modular code and defensive programming |
+| 11  | Dealing with text |
+| 12  | Artisanal data input |
+| 13  | Analysing our data with `numpy` and `scipy` |
+| 14  | Plotting results on a map |
 
 
 ## What to install
