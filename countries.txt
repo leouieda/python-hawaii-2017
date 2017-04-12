@@ -1,237 +1,237 @@
-Afghanistan     3.32 ± 0.34 Asia
-Åland   3.01 ± 0.24 Europe
-Albania     1.97 ± 0.28 Europe
-Algeria     2.86 ± 0.28 Africa
-American Samoa  1.43 ± 0.57
-Andorra     2.75 ± 0.29 Europe
-Angola  1.61 ± 0.34 Africa
-Anguilla    1.91 ± 0.31
-Antarctica  1.05 ± 0.76
-Antigua and Barbuda     1.86 ± 0.28
-Argentina   1.11 ± 0.26 South America
-Armenia     2.38 ± 0.29 Asia
-Aruba   1.31 ± 0.34 South America
-Australia   1.40 ± 0.25 Oceania
-Austria     2.90 ± 0.28 Europe
-Azerbaijan  2.57 ± 0.35 Asia
-Bahamas     1.53 ± 0.29 North America
-Bahrain     3.13 ± 0.55 Asia
-Baker Island    1.22 ± 0.17 Asia
-Bangladesh  0.90 ± 0.41 Asia
-Barbados    1.66 ± 0.32
-Belarus     3.16 ± 0.21 Europe
-Belgium     2.84 ± 0.20 Europe
-Belize  1.23 ± 0.26 North America
-Benin   1.82 ± 0.42 Africa
-Bhutan  1.25 ± 0.60 Asia
-Bolivia     0.65 ± 0.29 South America
-Bonaire, Saint Eustatius and Saba   1.43 ± 0.34 South America
-Bosnia and Herzegovina  2.61 ± 0.30 Europe
-Botswana    1.38 ± 0.29 Africa
-Brazil  1.70 ± 0.17 South America
-British Virgin Islands  1.88 ± 0.30
-Bulgaria    2.01 ± 0.25 Europe
-Burkina Faso    1.79 ± 0.34 Africa
-Burma   0.99 ± 0.30 Asia
-Burundi     1.90 ± 0.24 Africa
-Cambodia    1.05 ± 0.27 Asia
-Cameroon    1.61 ± 0.41 Africa
-Canada  3.64 ± 0.24 North America
-Cape Verde  2.09 ± 0.57
-Cayman Islands  1.47 ± 0.30
-Central African Republic    1.78 ± 0.33 Africa
-Chad    2.07 ± 0.60 Africa
-Chile   0.96 ± 0.37 South America
-China   2.09 ± 0.23 Asia
-Christmas Island    1.60 ± 0.27
-Colombia    1.23 ± 0.22 South America
-Comoros     1.92 ± 0.32
-Congo   1.47 ± 0.43 Africa
-Congo (Democratic Republic of the)  1.70 ± 0.23 Africa
-Costa Rica  1.60 ± 0.45 North America
-Côte d'Ivoire   1.80 ± 0.29 Africa
-Croatia     2.82 ± 0.31 Europe
-Cuba    1.46 ± 0.25 North America
-Curaçao     1.32 ± 0.37 South America
-Cyprus  1.92 ± 0.33 Asia
-Czech Republic  2.73 ± 0.26 Europe
-Denmark     3.56 ± 0.74 North America
-Denmark (Europe)    2.86 ± 0.23 Europe
-Djibouti    2.29 ± 0.44 Africa
-Dominica    1.75 ± 0.31 North America
-Dominican Republic  1.67 ± 0.33 North America
-Ecuador     1.31 ± 0.36 South America
-Egypt   2.03 ± 0.33 Africa
-El Salvador     1.41 ± 0.30 North America
-Equatorial Guinea   1.48 ± 0.39 Africa
-Eritrea     2.29 ± 0.39 Africa
-Estonia     3.01 ± 0.27 Europe
-Ethiopia    2.19 ± 0.25 Africa
-Falkland Islands (Islas Malvinas)   1.37 ± 0.38 South America
-Faroe Islands   1.74 ± 0.63
-Federated States of Micronesia  1.79 ± 0.51
-Fiji    1.30 ± 0.44 Oceania
-Finland     3.03 ± 0.27 Europe
-France  2.60 ± 0.21
-France (Europe)     2.77 ± 0.22 Europe
-French Guiana   1.85 ± 0.22 South America
-French Polynesia    1.58 ± 0.46
-French Southern and Antarctic Lands     1.67 ± 0.67
-Gabon   1.47 ± 0.45 Africa
-Gambia  1.86 ± 0.39 Africa
-Gaza Strip  2.05 ± 0.21 Asia
-Georgia     2.10 ± 0.26 Asia
-Germany     2.81 ± 0.21 Europe
-Ghana   1.75 ± 0.37 Africa
-Greece  1.78 ± 0.27 Europe
-Greenland   3.57 ± 0.75 North America
-Grenada     1.62 ± 0.33
-Guadeloupe  1.83 ± 0.28 North America
-Guam    1.24 ± 0.33
-Guatemala   1.22 ± 0.30 North America
-Guernsey    2.50 ± 0.28 Europe
-Guinea  1.80 ± 0.27 Africa
-Guinea-Bissau   1.85 ± 0.37 Africa
-Guyana  1.62 ± 0.28 South America
-Haiti   1.54 ± 0.30 North America
-Heard Island and McDonald Islands   1.49 ± 0.60
-Honduras    1.44 ± 0.27 North America
-Hong Kong   0.83 ± 0.27 Asia
-Hungary     2.55 ± 0.23 Europe
-Iceland     2.37 ± 0.44 Europe
-India   1.44 ± 0.30 Asia
-Indonesia   1.21 ± 0.18 Asia
-Iran    3.52 ± 0.37 Asia
-Iraq    2.54 ± 0.45 Asia
-Ireland     2.03 ± 0.36 Europe
-Isle of Man     2.30 ± 0.29 Europe
-Israel  2.03 ± 0.21 Asia
-Italy   2.64 ± 0.22 Europe
-Jamaica     1.46 ± 0.26 North America
-Japan   1.66 ± 0.23 Asia
-Jersey  2.50 ± 0.28 Europe
-Jordan  2.10 ± 0.29 Asia
-Kazakhstan  2.48 ± 0.26 Asia
-Kenya   1.86 ± 0.20 Africa
-Kingman Reef    1.71 ± 0.84
-Kiribati    1.73 ± 0.94
-Kuwait  2.86 ± 0.65 Asia
-Kyrgyzstan  2.47 ± 0.24 Asia
-Laos    0.96 ± 0.28 Asia
-Latvia  3.05 ± 0.26 Europe
-Lebanon     1.97 ± 0.19 Asia
-Lesotho     1.17 ± 0.38 Africa
-Liberia     1.81 ± 0.31 Africa
-Libya   2.54 ± 0.63 Africa
-Liechtenstein   2.83 ± 0.31 Europe
-Lithuania   2.98 ± 0.23 Europe
-Luxembourg  2.83 ± 0.19 Europe
-Macau   0.79 ± 0.29 Asia
-Macedonia   2.03 ± 0.30 Europe
-Madagascar  1.93 ± 0.35 Africa
-Malawi  1.94 ± 0.33 Africa
-Malaysia    1.27 ± 0.15 Asia
-Mali    1.94 ± 0.45 Africa
-Malta   2.74 ± 0.41
-Martinique  1.75 ± 0.31 North America
-Mauritania  2.28 ± 0.63 Africa
-Mauritius   2.03 ± 0.27 Africa
-Mayotte     1.89 ± 0.34
-Mexico  1.58 ± 0.29 North America
-Moldova     2.38 ± 0.23 Europe
-Monaco  2.76 ± 0.30 Europe
-Mongolia    2.92 ± 0.35 Asia
-Montenegro  2.14 ± 0.25 Europe
-Montserrat  1.85 ± 0.28
-Morocco     2.71 ± 0.23 Africa
-Mozambique  1.73 ± 0.23 Africa
-Namibia     1.51 ± 0.72 Africa
-Nepal   1.65 ± 0.34 Asia
-Netherlands     2.89 ± 0.21 Europe
-Netherlands (Europe)    2.92 ± 0.21 Europe
-New Caledonia   1.81 ± 0.35 Oceania
-New Zealand     0.97 ± 0.24 Oceania
-Nicaragua   1.55 ± 0.39 North America
-Niger   2.27 ± 0.64 Africa
-Nigeria     1.88 ± 0.43 Africa
-Niue    1.38 ± 0.57
-North Korea     2.44 ± 0.23 Asia
-Northern Mariana Islands    1.24 ± 0.33
-Norway  3.15 ± 0.37 Europe
-Oman    2.96 ± 0.52 Asia
-Pakistan    2.72 ± 0.28 Asia
-Palau   0.91 ± 0.27
-Palestina   1.71 ± 0.30
-Palmyra Atoll   1.72 ± 0.84
-Panama  1.52 ± 0.32 North America
-Papua New Guinea    1.24 ± 0.27 Oceania
-Paraguay    1.18 ± 0.49 South America
-Peru    0.95 ± 0.34 South America
-Philippines     0.97 ± 0.27 Asia
-Poland  2.79 ± 0.23 Europe
-Portugal    2.32 ± 0.27 Europe
-Puerto Rico     1.84 ± 0.32 North America
-Qatar   3.30 ± 0.49 Asia
-Reunion     2.00 ± 0.27 Africa
-Romania     2.18 ± 0.19 Europe
-Russia  3.39 ± 0.28 Asia
-Rwanda  1.87 ± 0.23 Africa
-Saint Barthélemy    1.91 ± 0.31
-Saint Kitts and Nevis   1.83 ± 0.27
-Saint Lucia     1.66 ± 0.30
-Saint Martin    1.91 ± 0.31
-Saint Pierre and Miquelon   2.35 ± 0.43 South America
-Saint Vincent and the Grenadines    1.65 ± 0.30
-Samoa   1.41 ± 0.55 Oceania
-San Marino  2.86 ± 0.30 Europe
-Sao Tome and Principe   1.54 ± 0.40
-Saudi Arabia    2.58 ± 0.50 Asia
-Senegal     1.87 ± 0.34 Africa
-Serbia  2.27 ± 0.27 Europe
-Seychelles  1.80 ± 0.46
-Sierra Leone    1.82 ± 0.28 Africa
-Singapore   1.45 ± 0.22 Asia
-Sint Maarten    1.91 ± 0.31
-Slovakia    2.51 ± 0.25 Europe
-Slovenia    3.07 ± 0.28 Europe
-Solomon Islands     1.62 ± 0.50 Oceania
-Somalia     2.14 ± 0.50 Africa
-South Africa    1.23 ± 0.37 Africa
-South Georgia and the South Sandwich Isla   1.85 ± 0.76
-South Korea     2.00 ± 0.21 Asia
-Spain   2.57 ± 0.24 Europe
-Sri Lanka   1.37 ± 0.28 Asia
-Sudan   2.04 ± 0.22 Africa
-Suriname    1.75 ± 0.22 South America
-Svalbard and Jan Mayen  5.45 ± 0.81 Europe
-Swaziland   1.43 ± 0.31 Africa
-Sweden  2.95 ± 0.27 Europe
-Switzerland     2.83 ± 0.23 Europe
-Syria   1.95 ± 0.19 Asia
-Taiwan  1.46 ± 0.28 Asia
-Tajikistan  2.66 ± 0.28 Asia
-Tanzania    1.98 ± 0.27 Africa
-Thailand    1.07 ± 0.24 Asia
-Timor-Leste     0.90 ± 0.41 Asia
-Togo    1.75 ± 0.46 Africa
-Tonga   1.34 ± 0.43
-Trinidad and Tobago     1.60 ± 0.37 South America
-Tunisia     3.12 ± 0.31 Africa
-Turkey  1.60 ± 0.22 Asia
-Turkmenistan    3.19 ± 0.26 Asia
-Turks and Caicas Islands    1.50 ± 0.39
-Uganda  1.78 ± 0.17 Africa
-Ukraine     2.66 ± 0.21 Europe
-United Arab Emirates    3.36 ± 0.57 Asia
-United Kingdom  2.30 ± 0.26 Europe
-United Kingdom (Europe)     2.35 ± 0.26 Europe
-United States   2.36 ± 0.13 North America
-Uruguay     1.56 ± 0.45 South America
-Uzbekistan  2.72 ± 0.29 Asia
-Venezuela   1.33 ± 0.31 South America
-Vietnam     0.91 ± 0.27 Asia
-Virgin Islands  1.88 ± 0.30
-Western Sahara  2.49 ± 0.69 Africa
-Yemen   2.50 ± 0.55 Asia
-Zambia  1.77 ± 0.27 Africa
-Zimbabwe    1.50 ± 0.22 Africa
+Afghanistan
+Åland
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Baker Island
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bonaire, Saint Eustatius and Saba
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+Bulgaria
+Burkina Faso
+Burma
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Colombia
+Comoros
+Congo
+Congo (Democratic Republic of the)
+Costa Rica
+Côte d'Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czech Republic
+Denmark
+Denmark (Europe)
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Islas Malvinas)
+Faroe Islands
+Federated States of Micronesia
+Fiji
+Finland
+France
+France (Europe)
+French Guiana
+French Polynesia
+French Southern and Antarctic Lands
+Gabon
+Gambia
+Gaza Strip
+Georgia
+Germany
+Ghana
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kingman Reef
+Kiribati
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Mali
+Malta
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Namibia
+Nepal
+Netherlands
+Netherlands (Europe)
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+North Korea
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestina
+Palmyra Atoll
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Isla
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicas Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United Kingdom (Europe)
+United States
+Uruguay
+Uzbekistan
+Venezuela
+Vietnam
+Virgin Islands
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
