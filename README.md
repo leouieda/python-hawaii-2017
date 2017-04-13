@@ -62,6 +62,21 @@ publication quality figures, and save the output.
 | 15  | Plotting results on a map |
 
 
+## Data
+
+Throughout the workshop, we will work with temperature data from
+[Berkeley Earth](http://berkeleyearth.org/).
+
+[![](http://berkeleyearth.lbl.gov/auto/Regional/TAVG/Figures/global-land-TAVG-Trend.png)](http://berkeleyearth.lbl.gov/regions/global-land)
+
+We'll start working with the time series of [average temperature in
+Hawaii](http://berkeleyearth.lbl.gov/regions/hawaii) and try to reproduce the
+figure from the website using Python tools.
+
+Next, we will automatically download the temperature time series for a list of
+countries, make plots, and run some analysis on the data.
+
+
 ## What to install
 
 There are many ways to get Python on your system and it can be very confusing
