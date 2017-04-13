@@ -76,6 +76,11 @@ figure from the website using Python tools.
 Next, we will automatically download the temperature time series for a list of
 countries, make plots, and run some analysis on the data.
 
+The data files are available in the `data` folder just in case we have network
+problems.
+The files were downloaded using the script `download-data.py` which is what we
+would write on day 2.
+
 
 ## What to install
 
