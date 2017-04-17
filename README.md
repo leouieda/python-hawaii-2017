@@ -37,29 +37,29 @@ publication quality figures, and save the output.
 
 ## Schedule
 
-|     | **Topics** |
-|:---:|:-----------|
-|     | **Day 1** |
-| 0   | Introductions |
-| 1   | First steps: Opening Python and running code |
-| 2   | The Jupyter notebook |
-| 3   | Using variables to store data |
-| 4   | Getting help |
-| 5   | The power of libraries |
-| 6   | Loading data with numpy |
-|     | **Day 2** |
-|     | *Recap* |
-| 7   | Computing with numpy arrays |
-| 8   | Making plots with matplotlib |
-| 9   | Repeating actions with `for` loops |
-| 10  | Specifying conditions with `if` statements |
-|     | **Day 3** |
-|     | *Recap* |
-| 11  | Making functions for modular code and defensive programming |
-| 12  | Dealing with text |
-| 13  | Artisanal data input |
-| 14  | Analysing our data with `numpy` and `scipy` |
-| 15  | Plotting results on a map |
+| **Topics** |
+|:-----------|
+| **Day 1** |
+| *Introductions* |
+| First steps: Opening Python and running code |
+| The Jupyter notebook |
+| Using variables to store data |
+| The power of libraries |
+| Getting help |
+| Loading data with numpy |
+| **Day 2** |
+| *Recap* |
+| Computing with numpy arrays |
+| Making plots with matplotlib |
+| Repeating actions with `for` loops |
+| Specifying conditions with `if` statements |
+| Dealing with text |
+| **Day 3** |
+| *Recap* |
+| Artisanal data input |
+| Making functions for modular code and defensive programming |
+| Analysing our data with `numpy` and `scipy` |
+| Plotting results on a map |
 
 
 ## Shared class notes
