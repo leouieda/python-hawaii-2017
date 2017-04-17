@@ -62,6 +62,18 @@ publication quality figures, and save the output.
 | 15  | Plotting results on a map |
 
 
+## Shared class notes
+
+We'll use Google Docs to edit shared class notes.
+Please keep the document open during class.
+You can post questions/comments/whatever on the notes or
+on the group chat.
+
+1. [Notes for day 1](https://docs.google.com/document/d/1cfmbCcUbqQZJHqEPifhVT5hC07r0LHNTwIlckaj5gRk/edit?usp=sharing)
+2. [Notes for day 2](https://docs.google.com/document/d/1i1daJKs6qrqtVEjxLSGd69Atay2UYujTn2YXVB_-FjU/edit?usp=sharing)
+3. [Notes for day 3](https://docs.google.com/document/d/1amWSLCPh1EkjpfAdaE3-TUus1Apdjr_d-oC3Z-eL93s/edit?usp=sharing)
+
+
 ## Data
 
 Throughout the workshop, we will work with temperature data from
