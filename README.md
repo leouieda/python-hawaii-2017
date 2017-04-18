@@ -44,8 +44,9 @@ publication quality figures, and save the output.
 | First steps: Opening Python and running code |
 | The Jupyter notebook |
 | Using variables to store data |
-| The power of libraries |
+| Built-in functions |
 | Getting help |
+| The power of libraries |
 | Loading data with numpy |
 | **Day 2** |
 | *Recap* |
