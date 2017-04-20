@@ -24,21 +24,27 @@ else:
 print()
 
 # Load the list of countries
+# Use the 'open' function to open a file for reading. The file content is
+# accessed using the 'country_file' variable.
 with open('countries.txt') as country_file:
-    # 'readlines' produces a list with each line in our file.
-    lines_in_file = country_file.readlines()
-    # Filter out empty strings from out country list and strip trailing white
-    # space and line breaks.
+    # We need to read in the country names, filter out empty strings from the
+    # country list, and strip trailing white space and line breaks.
+    # We'll start with an empty list and fill it with the names from our open
+    # file.
     countries = []
-    for line in lines_in_file:
+    # Using an open file object in a 'for' loop will iterate over the lines of
+    # that file, one at a time, until the end of the file.
+    for line in country_file:
+        # Remove trailing spaces and newlines.
+        stripped = line.strip()
         # Check if the line is not an empty string after removing trailing
         # spaces and newlines.
-        stripped = line.strip()
         if stripped:
+            # Add to the country list
             countries.append(stripped)
     # As a bonus, the above code could be substituted by a single line using
     # Pythons coolest feature: list comprehensions.
-    # countries = [line.strip() for line in lines_in_file if line.strip()]
+    # countries = [line.strip() for line in country_file if line.strip()]
 
 # We'll be sneaky (lazy?) and add Hawaii to our list of countries to download
 # the data from there as well.
