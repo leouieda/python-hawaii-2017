@@ -37,7 +37,7 @@
 Write code that:
 
 * Reads in the Hawaii temperature data using numpy
-* Calculate the mininum, maximum, mean, and standard deviation of the
+* Calculate the minimum, maximum, mean, and standard deviation of the
   temperature anomaly
 
 
@@ -47,15 +47,3 @@ Write code that:
 * Example using sample data
 * Show docs and gallery
     * Exercise: Add labels and a title to your plot
-
-### Exercise
-
-Using the Hawaii temperature data, write code that:
-
-* Generate a plot of the monthly temperature anomaly per year
-* Add labels and a title to your plot
-* Make a second plot with the temperature in Fahrenheit
-
-Optional:
-
-* Add the yearly anomaly to your plot using a different color line

@@ -2,7 +2,6 @@ Afghanistan
 Antarctica
 Bolivia
 Canada
-Cape Verde
 Congo
 Egypt
 Finland
@@ -17,4 +16,5 @@ Pakistan
 Qatar
 Spain
 Switzerland
+Yemen
 Zimbabwe

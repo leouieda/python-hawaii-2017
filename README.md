@@ -56,9 +56,9 @@ publication quality figures, and save the output.
 | *Recap* |
 | Repeating actions with `for` loops |
 | Specifying conditions with `if` statements |
-| Artisanal data input |
-| Making functions for modular code and defensive programming |
-| Analysing our data with `numpy` and `scipy` |
+| Making your own functions |
+| Bonus: Artisanal data input |
+| Bonus: Analysing our data with `numpy` and `scipy` |
 
 
 ## Shared class notes
