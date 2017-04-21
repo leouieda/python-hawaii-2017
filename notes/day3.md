@@ -1,4 +1,4 @@
-# Lecturer notes for Day 2
+# Lecturer notes for Day 3
 
 ## Recap
 
